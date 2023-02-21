@@ -7,7 +7,7 @@ function FormLogin() {
             <input type="text" />
             <input type="password"  />
             <button >Iniciar sesión</button>
-            <button>-------</button>
+            <button>---//----</button>
         </form>
       );
 }
