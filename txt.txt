@@ -1,0 +1,15 @@
+bash=>shell =>Born Again Shell
+MINGW64=MIN.GNU...
+///////COMANDOS BASICOS
+RUTA ABSOLUTA root/"destino"   C:/../..   todo el destino 
+RUTA RELATIVA  ./"destino"     cd ../otroDir
+#ls =LIST
+//-a
+//-l
+//-help
+#touch => touch archico.bash
+#mv MOVE=>  mv <cosa> <Destino>
+#cp COPY =>  cp <cosa> <Destino>
+#cat=>para ver el contenido de un archivo   cat >> <nombre arch>
+#echo=>  echo
+bashScript-Tareas automatisacion de tareas
